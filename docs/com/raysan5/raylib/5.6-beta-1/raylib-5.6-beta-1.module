@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.raysan5",
+    "module": "raylib",
+    "version": "5.6-beta-1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "raylib-5.6-beta-1.aar",
+          "url": "raylib-5.6-beta-1.aar",
+          "size": 7980354,
+          "sha512": "f035957cf06d5d7cef29426f347847fa10772857c8433b3a05f4fa057295f509e73dd6f62f059b234daef15d6e90857e6c83259fc0ab118db00537ee23a8292f",
+          "sha256": "ecb37b76c04dc568bf06e074a366dd298cb141ea8d3c8c5cf3eb0ab5c361e733",
+          "sha1": "799b45f1d883dec61e1bcce0f6e5acf112451640",
+          "md5": "86bbadb5df3a41104a06b29b85f3f24f"
+        }
+      ]
+    }
+  ]
+}

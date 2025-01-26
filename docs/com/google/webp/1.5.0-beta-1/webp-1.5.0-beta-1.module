@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.google",
+    "module": "webp",
+    "version": "1.5.0-beta-1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "webp-1.5.0-beta-1.aar",
+          "url": "webp-1.5.0-beta-1.aar",
+          "size": 3503573,
+          "sha512": "c0b60e5c00c6b16bf3e1bf17882f7485be6bd0fb10bc59747490bd990518a996cc6c58b98fb96d1b5b338358405292528aadde4f93ca9e963f05d3fe8e655866",
+          "sha256": "f7011a08765cd96cf20a8dc1f8b40027c30f7653576e20c60396b83352a3f516",
+          "sha1": "b315fc25a906627f805d597ef5b1fb317726373a",
+          "md5": "ed028ed8f4300855694c936e4bdb752d"
+        }
+      ]
+    }
+  ]
+}

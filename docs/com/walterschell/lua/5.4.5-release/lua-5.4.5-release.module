@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.walterschell",
+    "module": "lua",
+    "version": "5.4.5-release",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "lua-5.4.5-release.aar",
+          "url": "lua-5.4.5-release.aar",
+          "size": 2030059,
+          "sha512": "edd12dc276965b4f061eb4f579b5f0e2473d885e5eed54131e60f40007c83ffe35739e044cf5bb157a88c8ef717793e8f82665eea6cb0f90c7e8f530ce89615f",
+          "sha256": "5d72283cb4ef328091c8045cf102ce942f0b0618ec60ecbb31c2ec382de20d5b",
+          "sha1": "74c9d976d401bb8b29b3a366be1f5598a6ee736a",
+          "md5": "58e23f27863f7dbf25aa51c72d4bae19"
+        }
+      ]
+    }
+  ]
+}

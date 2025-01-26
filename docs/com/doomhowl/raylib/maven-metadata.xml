@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.doomhowl</groupId>
+  <artifactId>raylib</artifactId>
+  <versioning>
+    <latest>5.6-release</latest>
+    <release>5.6-release</release>
+    <versions>
+      <version>5.6-release</version>
+    </versions>
+    <lastUpdated>20250127175802</lastUpdated>
+  </versioning>
+</metadata>
