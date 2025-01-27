@@ -24,10 +24,10 @@
           "name": "raylib-5.6-release.aar",
           "url": "raylib-5.6-release.aar",
           "size": 7981956,
-          "sha512": "9c0bc93f588a042a0ffd1d7edb8d621af99ad490ae71f3cabdd3f865a5b6bf6afc600dacc217451488cbde29162425d295095a5f45faace9a9b4f70b4ef73cdc",
-          "sha256": "6b79b88a3ced53a3c09fe83fb5c930ea9883e8a5eec7009a7c8386c12e45464c",
-          "sha1": "078aa31dab90207c2080d400fb2b78a878bddb94",
-          "md5": "e57764ea5257c9a5e15b399ec5920303"
+          "sha512": "d127b31c09c7b94e255d422b029df369cf69e8378d900ff9caf10e984d8f50421f84b2cd0043cfd9e485bf16ff2236ce8af8c5cac126039b565c10379fc01a84",
+          "sha256": "dd6c229b395cf35a9845a86a9ad31b8a9f9f72b55a3b4f33ca5a8a3e7206975d",
+          "sha1": "9b8ade08008069d6ad276fc1cb3af57d0c2a4be7",
+          "md5": "55156bedcf78844c961f16c00bf79756"
         }
       ]
     }

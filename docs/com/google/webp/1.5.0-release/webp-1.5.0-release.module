@@ -24,10 +24,10 @@
           "name": "webp-1.5.0-release.aar",
           "url": "webp-1.5.0-release.aar",
           "size": 3503573,
-          "sha512": "f4adf350907164c7d1df6d87f940eb29995c55096851d2de42a58b11a11cceb7326d8a009b7482ba93a01514efe2dfa480da75ba45a8f376265a5c0f5a105fb5",
-          "sha256": "b39495f7274c992c7925bb64bae6af480df80546e4d5cc2eddc03e5a84d3f2e6",
-          "sha1": "c47983ed9828b927de4a28685f9e818e5c8985d9",
-          "md5": "59ce1da969b37021cc39938e25393eb1"
+          "sha512": "3a14761bbd221065872d4e6b2dc7bd4a0dd576f48ea290d621ec5941b78e13ab604b6f8b73a133e31aa46f121bdbba849645198f87b4123335b383b3fcd02266",
+          "sha256": "4be0a44fbb3318a8042cdf7ce93e9737b738599be0947e84889667f1cc9be442",
+          "sha1": "49c44398d7ff0ae6b8060a38ee6ed1d6e0a5d89a",
+          "md5": "3fa4286b1e648159024fd28069e464e7"
         }
       ]
     }

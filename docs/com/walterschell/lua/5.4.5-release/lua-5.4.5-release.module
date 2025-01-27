@@ -23,11 +23,11 @@
         {
           "name": "lua-5.4.5-release.aar",
           "url": "lua-5.4.5-release.aar",
-          "size": 2030059,
-          "sha512": "edd12dc276965b4f061eb4f579b5f0e2473d885e5eed54131e60f40007c83ffe35739e044cf5bb157a88c8ef717793e8f82665eea6cb0f90c7e8f530ce89615f",
-          "sha256": "5d72283cb4ef328091c8045cf102ce942f0b0618ec60ecbb31c2ec382de20d5b",
-          "sha1": "74c9d976d401bb8b29b3a366be1f5598a6ee736a",
-          "md5": "58e23f27863f7dbf25aa51c72d4bae19"
+          "size": 1930811,
+          "sha512": "e883252b99bf2a4893862e85b2f4f4792eb1bba20140d375dc9aa2b71306b37a75bf8ebffe28f5dd7097fba589bb68ac62e3c5b3c17fd365862c7013db043701",
+          "sha256": "46d8b446c0e550d5ac3cc9539cfeee54037f02a05df63d3c23d9b11c64ecbf4f",
+          "sha1": "495cfd14f1a67113f848cba05918a73b7824a9b2",
+          "md5": "5d615efdd3c1cac6a92eae43db2f314d"
         }
       ]
     }
