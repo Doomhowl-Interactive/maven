@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.sammycage",
+    "module": "lunasvg",
+    "version": "3.1.0-debug",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "lunasvg-3.1.0-debug.aar",
+          "url": "lunasvg-3.1.0-debug.aar",
+          "size": 10124267,
+          "sha512": "703523eb9bab1decc58d833bde075066ff500486707f1c7df945edd8f1f9fa65cbc17cf8799b1725e378578bd27777e3bda45f4eb1ae4a72c5021c7cb78ff02f",
+          "sha256": "14e666eb0d0014db41f975d2d9a69bb68196cf65f137d801aaa51f729ab2ff09",
+          "sha1": "e10b41ba4c8a8c8e1a4aa42007a41e02da63268a",
+          "md5": "fac88223fad61136818f1829a7d19f0a"
+        }
+      ]
+    }
+  ]
+}
