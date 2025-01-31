@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bramtechs",
+    "module": "TouchScrollPhysics",
+    "version": "1.0.0-release",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "TouchScrollPhysics-1.0.0-release.aar",
+          "url": "TouchScrollPhysics-1.0.0-release.aar",
+          "size": 21229,
+          "sha512": "29a72900d0281a0a194cb60afc71514dd3715b6816494218266ff80a83c2bc67e6923635a2623dd142eeb1ba895a15797305d6a3826f03e020575b5fa21014ba",
+          "sha256": "863d2d1af8e53a60e34ef452aa7a3eac809e7cf5e0b08c87b0da8e8d103bc985",
+          "sha1": "194c8d961374ae959726cdb2d63de76c5d6de8dc",
+          "md5": "63834324b8b15768d2484ede20dd8c11"
+        }
+      ]
+    }
+  ]
+}

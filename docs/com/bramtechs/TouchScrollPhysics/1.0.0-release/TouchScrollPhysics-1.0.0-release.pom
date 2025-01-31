@@ -8,10 +8,10 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bramtechs</groupId>
-  <artifactId>touch-scroll-physics-c</artifactId>
-  <version>1.0.0-debug</version>
+  <artifactId>TouchScrollPhysics</artifactId>
+  <version>1.0.0-release</version>
   <packaging>aar</packaging>
-  <name>touch-scroll-physics-c</name>
+  <name>TouchScrollPhysics</name>
   <description>Quick port of a JavaScript scroll library to C.</description>
   <url>https://github.com/bramtechs/touch-scroll-physics-c</url>
   <licenses>

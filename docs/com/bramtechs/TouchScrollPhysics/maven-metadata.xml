@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.bramtechs</groupId>
-  <artifactId>touch-scroll-physics-c</artifactId>
+  <artifactId>TouchScrollPhysics</artifactId>
   <versioning>
     <latest>1.0.0-release</latest>
     <release>1.0.0-release</release>
     <versions>
-      <version>1.0.0-debug</version>
       <version>1.0.0-release</version>
     </versions>
-    <lastUpdated>20250131142941</lastUpdated>
+    <lastUpdated>20250131150652</lastUpdated>
   </versioning>
 </metadata>
