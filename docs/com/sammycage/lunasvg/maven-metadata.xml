@@ -3,11 +3,12 @@
   <groupId>com.sammycage</groupId>
   <artifactId>lunasvg</artifactId>
   <versioning>
-    <latest>3.1.0-debug</latest>
-    <release>3.1.0-debug</release>
+    <latest>3.1.0-release</latest>
+    <release>3.1.0-release</release>
     <versions>
       <version>3.1.0-debug</version>
+      <version>3.1.0-release</version>
     </versions>
-    <lastUpdated>20250130222031</lastUpdated>
+    <lastUpdated>20250131142913</lastUpdated>
   </versioning>
 </metadata>

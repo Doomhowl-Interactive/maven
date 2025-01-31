@@ -3,11 +3,12 @@
   <groupId>com.bramtechs</groupId>
   <artifactId>touch-scroll-physics-c</artifactId>
   <versioning>
-    <latest>1.0.0-debug</latest>
-    <release>1.0.0-debug</release>
+    <latest>1.0.0-release</latest>
+    <release>1.0.0-release</release>
     <versions>
       <version>1.0.0-debug</version>
+      <version>1.0.0-release</version>
     </versions>
-    <lastUpdated>20250130222059</lastUpdated>
+    <lastUpdated>20250131142941</lastUpdated>
   </versioning>
 </metadata>

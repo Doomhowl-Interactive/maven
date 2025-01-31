@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.bramtechs</groupId>
+  <artifactId>touch-scroll-physics-c</artifactId>
+  <version>1.0.0-release</version>
+  <packaging>aar</packaging>
+  <name>touch-scroll-physics-c</name>
+  <description>Quick port of a JavaScript scroll library to C.</description>
+  <url>https://github.com/bramtechs/touch-scroll-physics-c</url>
+  <licenses>
+    <license>
+      <name>MIT license</name>
+      <url>https://github.com/bramtechs/touch-scroll-physics-c?tab=MIT-1-ov-file#readme</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>bramtechs</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/bramtechs/touch-scroll-physics-c</connection>
+    <url>https://github.com/bramtechs/touch-scroll-physics-c</url>
+  </scm>
+</project>

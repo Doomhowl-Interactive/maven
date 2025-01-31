@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bramtechs",
+    "module": "touch-scroll-physics-c",
+    "version": "1.0.0-release",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "touch-scroll-physics-c-1.0.0-release.aar",
+          "url": "touch-scroll-physics-c-1.0.0-release.aar",
+          "size": 21253,
+          "sha512": "21ce9365a2eeaa7be30b63f62ab25be62192dc393ea52a59e6aed46a9d02422f0478a544d5f18509912298f1db73ea1fe07450f015740662c3b094f73347175a",
+          "sha256": "1c2d21725713846d45d08c3a70e351a782cabe357fe8a6ead83c6721586d989d",
+          "sha1": "9efa8cab5f2018afeefe9bf05e87eb1e6def93c8",
+          "md5": "28fe7256b7c3fbea64ba96fb5bda0a32"
+        }
+      ]
+    }
+  ]
+}
