@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.socketio",
+    "module": "sioclient",
+    "version": "3.2.0-release",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "exportedAars",
+      "attributes": {
+        "artifactType": "aar"
+      },
+      "files": [
+        {
+          "name": "sioclient-3.2.0-release.aar",
+          "url": "sioclient-3.2.0-release.aar",
+          "size": 14548694,
+          "sha512": "31c42e432e6a091b4522c8714289da96229d03f0a1d8ab0657de38841aa0bc74e8402df792f54b92733361f947de743a1c9d5e5ecb761cbfc9d17281babf093e",
+          "sha256": "337e367cd2041b6581852a9969f4b70151c87b46b82f6b5f67aadfe5e8a64dcd",
+          "sha1": "d70c138123acb3c2b95673a499b3199c249f9a0b",
+          "md5": "8564799269331b61ae7ac05c2eed51ba"
+        }
+      ]
+    }
+  ]
+}

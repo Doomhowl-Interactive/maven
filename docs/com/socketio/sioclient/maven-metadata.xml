@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.socketio</groupId>
+  <artifactId>sioclient</artifactId>
+  <versioning>
+    <latest>3.2.0-release</latest>
+    <release>3.2.0-release</release>
+    <versions>
+      <version>3.2.0-release</version>
+    </versions>
+    <lastUpdated>20250322165403</lastUpdated>
+  </versioning>
+</metadata>
